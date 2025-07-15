@@ -14,7 +14,7 @@ Make sure Ansible is installed and your inventory is configured.
 ```bash
 ansible-playbook -i inventory playbook.yml
 
-Requirements
+## Requirements
 
     Ubuntu/Debian-based EC2 instance
 
@@ -22,12 +22,12 @@ Requirements
 
     SSH access to the target instance
 
-Screenshot
+## Screenshot
 
 Below is the webpage after successful deployment:
 ![Web Page Screenshot](screenshot.png)
 
-Thanks for checking it out!
+### Thanks for checking it out!
 
 
 ---
