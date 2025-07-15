@@ -24,10 +24,10 @@ Below is the webpage after successful deployment:
 ### How to Run
 ```bash
 ansible-playbook -i inventory playbook.yml
+```
 
----
 
-### Thanks for checking it out!
+###  Thanks for checking it out!
 
 
 ---
