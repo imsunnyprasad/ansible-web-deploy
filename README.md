@@ -7,12 +7,6 @@ This is my first Ansible playbook, where I learned how to deploy a static web pa
 - Copies a static `index.html` file to `/var/www/html`
 - Sets ownership and file permissions
 
-## How to Run
-
-Make sure Ansible is installed and your inventory is configured.
-
-```bash
-ansible-playbook -i inventory playbook.yml
 
 ## Requirements
 
@@ -26,6 +20,12 @@ ansible-playbook -i inventory playbook.yml
 
 Below is the webpage after successful deployment:
 ![Web Page Screenshot](screenshot.png)
+
+### How to Run
+```bash
+ansible-playbook -i inventory playbook.yml
+
+---
 
 ### Thanks for checking it out!
 
