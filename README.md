@@ -30,6 +30,3 @@ ansible-playbook -i inventory playbook.yml
 ###  Thanks for checking it out!
 
 
----
-
-Let me know if you want this whole folder structure as a `.zip` file to make things easier.
